@@ -14,8 +14,7 @@
 	<div>
 		list
 	</div>
-	<button>수정</button>
-	<button>취소</button>
+	<button>취소.</button>
 </body>
 </html>
 
